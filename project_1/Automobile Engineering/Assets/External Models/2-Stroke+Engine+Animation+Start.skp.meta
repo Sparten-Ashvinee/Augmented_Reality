@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 3377e58d9f5dd4142814302d61a286f9
+timeCreated: 1473103415
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 74aff1fe575628debee8aac0af46a4c7
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.250176, y: 0.23913164, z: -0.28132987}
+      lookAt: {x: 0.12274856, y: 0.012581174, z: 0.19636466}
+      up: {x: -0.10737048, y: 0.9090988, z: 0.40250582}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 3
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 4
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 5
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 6
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 7
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 8
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 9
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 10
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 11
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 12
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2-stroke cycle crankcase and cylinder
+    100002: //RootNode
+    100004: Connecting Rod
+    100006: crank pin
+    100008: crankshaft
+    100010: flywheel
+    100012: Flywheel Crankshaft
+    100014: Pin and Rod
+    100016: Piston and Rod
+    100018: piston pin
+    100020: piston#1
+    100022: Piston, Rod and Flywheel
+    100024: plastic plugs
+    100026: plastic plugs 1
+    400000: 2-stroke cycle crankcase and cylinder
+    400002: //RootNode
+    400004: Connecting Rod
+    400006: crank pin
+    400008: crankshaft
+    400010: flywheel
+    400012: Flywheel Crankshaft
+    400014: Pin and Rod
+    400016: Piston and Rod
+    400018: piston pin
+    400020: piston#1
+    400022: Piston, Rod and Flywheel
+    400024: plastic plugs
+    400026: plastic plugs 1
+    2300000: 2-stroke cycle crankcase and cylinder
+    2300002: Connecting Rod
+    2300004: crank pin
+    2300006: crankshaft
+    2300008: flywheel
+    2300010: piston pin
+    2300012: piston#1
+    2300014: plastic plugs
+    2300016: plastic plugs 1
+    3300000: 2-stroke cycle crankcase and cylinder
+    3300002: Connecting Rod
+    3300004: crank pin
+    3300006: crankshaft
+    3300008: flywheel
+    3300010: piston pin
+    3300012: piston#1
+    3300014: plastic plugs
+    3300016: plastic plugs 1
+    4300000: Mesh 2-stroke cycle crankcase and cylinder
+    4300002: Mesh crankshaft
+    4300004: Mesh plastic plugs
+    4300006: Mesh plastic plugs
+    4300008: Mesh crank pin
+    4300010: Mesh flywheel
+    4300012: Mesh piston pin
+    4300014: Mesh Connecting Rod
+    4300016: Mesh piston#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

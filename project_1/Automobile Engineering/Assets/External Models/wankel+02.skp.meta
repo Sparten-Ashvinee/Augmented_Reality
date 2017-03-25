@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 9d2e9bf2a6fad1746956bee04bbdf0e9
+timeCreated: 1473185556
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e7000000e8000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 03eac8b6aaef69075af258bfc8f7b8df
+  longitude: 2.183
+  latitude: 41.383
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+      lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+      up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_1"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_2"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_3"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_4"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_5"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_6"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_7"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_8"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_9"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_10"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_11"
+    - camera:
+        position: {x: 1.3294029, y: 1.0746081, z: -2.3903747}
+        lookAt: {x: -21.8109, y: -12.787026, z: 78.24601}
+        up: {x: -0.044968005, y: 0.9866222, z: 0.15669878}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Escena\_12"
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Componente#1
+    100002: Componente#1 1
+    100004: Componente#19
+    100006: Componente#2
+    100008: Componente#2 1
+    100010: Componente#7
+    100012: Componente#7 1
+    100014: Componente#7 10
+    100016: Componente#7 11
+    100018: Componente#7 12
+    100020: Componente#7 2
+    100022: Componente#7 3
+    100024: Componente#7 4
+    100026: Componente#7 5
+    100028: Componente#7 6
+    100030: Componente#7 7
+    100032: Componente#7 8
+    100034: Componente#7 9
+    100036: Group 144
+    100038: Group 157
+    100040: Group 159
+    100042: Group 161
+    100044: Group 163
+    100046: Group 165
+    100048: Group 167
+    100050: Group 169
+    100052: Group 171
+    100054: Group 173
+    100056: Group 175
+    100058: Group 177
+    100060: Group 179
+    100062: Group 181
+    100064: Group 183
+    100066: Group 185
+    100068: Group 187
+    100070: Group 189
+    100072: Group 195
+    100074: Group 208
+    100076: Grupo#1
+    100078: Grupo#1 1
+    100080: Grupo#24
+    100082: Grupo#25
+    100084: Grupo#25 1
+    100086: Grupo#8
+    100088: //RootNode
+    400000: Componente#1
+    400002: Componente#1 1
+    400004: Componente#19
+    400006: Componente#2
+    400008: Componente#2 1
+    400010: Componente#7
+    400012: Componente#7 1
+    400014: Componente#7 10
+    400016: Componente#7 11
+    400018: Componente#7 12
+    400020: Componente#7 2
+    400022: Componente#7 3
+    400024: Componente#7 4
+    400026: Componente#7 5
+    400028: Componente#7 6
+    400030: Componente#7 7
+    400032: Componente#7 8
+    400034: Componente#7 9
+    400036: Group 144
+    400038: Group 157
+    400040: Group 159
+    400042: Group 161
+    400044: Group 163
+    400046: Group 165
+    400048: Group 167
+    400050: Group 169
+    400052: Group 171
+    400054: Group 173
+    400056: Group 175
+    400058: Group 177
+    400060: Group 179
+    400062: Group 181
+    400064: Group 183
+    400066: Group 185
+    400068: Group 187
+    400070: Group 189
+    400072: Group 195
+    400074: Group 208
+    400076: Grupo#1
+    400078: Grupo#1 1
+    400080: Grupo#24
+    400082: Grupo#25
+    400084: Grupo#25 1
+    400086: Grupo#8
+    400088: //RootNode
+    2300000: Componente#1
+    2300002: Componente#1 1
+    2300004: Componente#19
+    2300006: Componente#2
+    2300008: Componente#2 1
+    2300010: Componente#7
+    2300012: Componente#7 1
+    2300014: Componente#7 10
+    2300016: Componente#7 11
+    2300018: Componente#7 12
+    2300020: Componente#7 2
+    2300022: Componente#7 3
+    2300024: Componente#7 4
+    2300026: Componente#7 5
+    2300028: Componente#7 6
+    2300030: Componente#7 7
+    2300032: Componente#7 8
+    2300034: Componente#7 9
+    2300036: Group 157
+    2300038: Group 159
+    2300040: Group 161
+    2300042: Group 163
+    2300044: Group 165
+    2300046: Group 167
+    2300048: Group 169
+    2300050: Group 171
+    2300052: Group 173
+    2300054: Group 175
+    2300056: Group 177
+    2300058: Group 179
+    2300060: Group 181
+    2300062: Group 183
+    2300064: Group 185
+    2300066: Group 187
+    2300068: Group 189
+    2300070: Grupo#1
+    2300072: Grupo#1 1
+    2300074: Grupo#24
+    2300076: Grupo#25
+    2300078: Grupo#25 1
+    2300080: Grupo#8
+    3300000: Componente#1
+    3300002: Componente#1 1
+    3300004: Componente#19
+    3300006: Componente#2
+    3300008: Componente#2 1
+    3300010: Componente#7
+    3300012: Componente#7 1
+    3300014: Componente#7 10
+    3300016: Componente#7 11
+    3300018: Componente#7 12
+    3300020: Componente#7 2
+    3300022: Componente#7 3
+    3300024: Componente#7 4
+    3300026: Componente#7 5
+    3300028: Componente#7 6
+    3300030: Componente#7 7
+    3300032: Componente#7 8
+    3300034: Componente#7 9
+    3300036: Group 157
+    3300038: Group 159
+    3300040: Group 161
+    3300042: Group 163
+    3300044: Group 165
+    3300046: Group 167
+    3300048: Group 169
+    3300050: Group 171
+    3300052: Group 173
+    3300054: Group 175
+    3300056: Group 177
+    3300058: Group 179
+    3300060: Group 181
+    3300062: Group 183
+    3300064: Group 185
+    3300066: Group 187
+    3300068: Group 189
+    3300070: Grupo#1
+    3300072: Grupo#1 1
+    3300074: Grupo#24
+    3300076: Grupo#25
+    3300078: Grupo#25 1
+    3300080: Grupo#8
+    4300000: Mesh Grupo#8
+    4300002: Mesh Grupo#24
+    4300004: Mesh Grupo#1
+    4300006: Mesh Componente#2
+    4300008: Mesh Group 157
+    4300010: Mesh Group 159
+    4300012: Mesh Group 161
+    4300014: Mesh Group 163
+    4300016: Mesh Group 165
+    4300018: Mesh Group 167
+    4300020: Mesh Group 189
+    4300022: Mesh Grupo#25
+    4300024: Mesh Componente#7
+    4300026: Mesh Componente#1
+    4300028: Mesh Componente#19
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

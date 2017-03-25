@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="4_stroke_engine" size="200.000000 84.448090" />
+    <ImageTarget name="Crankshaft" size="100.000000 48.332630" />
+    <ImageTarget name="fluid_cooled_generator" size="200.000000 198.458084" />
+    <ImageTarget name="Wankel_engine" size="200.000000 66.557381" />
+    <ImageTarget name="radial_engine" size="200.000000 194.927536" />
+    <ImageTarget name="Mico-bosch" size="200.000000 266.666656" />
+    <ImageTarget name="coolant_pump" size="200.000000 272.369232" />
+    <ImageTarget name="Carburettor" size="200.000000 154.648529" />
+    <ImageTarget name="Alfa_romeo_engine" size="200.000000 150.000000" />
+    <ImageTarget name="6_cylinder_engine" size="200.000000 129.736511" />
+    <ImageTarget name="2_stroke_engine" size="200.000000 141.939621" />
+    <ImageTarget name="mech_book" size="3456.000000 4608.000000" />
+  </Tracking>
+</QCARConfig>
